@@ -1,0 +1,29 @@
+DOR STALL SALES RECORD,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+S.No,Date,Category,Price,Quantity,,Total Amount,Discount (%),Payment Method
+1,07-Oct-2025,Cotton Scarf,300,2,,600,0,Cash
+2,,T-Shirt,540,1,,540,0,UPI
+3,08-Oct-2025,Chanderi Scarf,480,2,,960,0,Card
+4,,Chanderi Dupatta,660,1,,660,0,Cash
+5,14-Oct-2025,cotton scarf,300,3,,900,5,UPI
+6,,T-Shirt,540,2,,1080,0,Card
+7,15-Oct-2025,Chanderi Scarf,480,1,,480,0,UPI
+8,21-Oct-2025,Cotton Scarf,300,4,,1200,5,Cash
+9,,chanderi scarf,480,2,,960,0,Card
+10,22-Oct-2025,T-Shirt,540,2,,1080,0,UPI
+11,28-Oct-2025,Chanderi Dupatta,660,1,,660,0,Cash
+12,,Cotton Scarf,300,2,,600,0,UPI
+13,09-Nov-2025,T-Shirt,540,3,,1620,10,Card
+14,,Cotton Scarf,300,5,,1500,10,UPI
+15,,Chanderi Scarf,480,4,,1920,10,Cash
+16,10-Nov-2025,Chanderi Dupatta,660,3,,1980,5,Card
+17,,T-Shirt,540,2,,1080,0,UPI
+18,16-Nov-2025,cotton scarf,300,6,,1800,10,Cash
+19,,chanderi scarf,480,3,,1440,5,Card
+20,17-Nov-2025,Chanderi Dupatta,660,2,,1320,0,UPI
+21,,T-Shirt,540,4,,2160,10,Cash
+22,23-Nov-2025,Cotton Scarf,300,3,,900,0,Card
+23,,T-Shirt,540,2,,1080,0,UPI
+24,24-Nov-2025,Chanderi Scarf,480,1,,480,0,Cash
+25,30-Nov-2025,Chanderi Dupatta,660,1,,660,0,Card

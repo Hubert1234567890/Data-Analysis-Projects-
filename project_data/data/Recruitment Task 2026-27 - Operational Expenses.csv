@@ -1,0 +1,13 @@
+DOR EXPENSES RECORD,,,,,
+,,,,,
+,,,,,
+Expense ID,Date,Expense Category,Expenese Channel,Description,Amount
+E01,06-Oct-2025,Stall Operations,Stall,KMC Campus Stall Rental (Oct),1000
+E02,15-Oct-2025,Logistics,Retail,Transport for raw materials,450
+E03,25-Oct-2025,Packaging,Retail,Bulk order of packaging bags,600
+E04,29-Oct-2025,Utilities,Stall,Artisan workshop electricity bill,800
+E05,01-Nov-2025,Marketing,Retail,Social Media Ad Boost (Fest),750
+E06,08-Nov-2025,Stall Operations,Stall,Diwali Fest Stall Rental (Nov),2000
+E07,18-Nov-2025,Logistics,Retail,Transport for finished goods,550
+E08,26-Nov-2025,Packaging,Retail,Order of premium packaging boxes,850
+E09,30-Nov-2025,Utilities,Stall,Artisan workshop electricity bill,950

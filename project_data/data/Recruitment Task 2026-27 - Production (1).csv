@@ -1,0 +1,59 @@
+DOR PRODUCTION RECORD,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+S.No,Date,Category,Total Products,Defective Products,,Cost of Production (per unit),Wages (per unit),Raw Material Batch ID,Artisan Name/ID
+1,01-Oct-2025,Cotton Scarf,15,1,,85,40,RM-A-101,A01
+2,02-Oct-2025,T-Shirt,10,0,,180,60,RM-A-101,A02
+3,03-Oct-2025,Chanderi Dupatta,8,0,,210,55,RM-A-102,A03
+4,04-Oct-2025,Chanderi Scarf,12,0,,150,50,RM-A-102,A04
+5,05-Oct-2025,cotton scarf,15,0,,87,40,RM-B-103,A01
+6,06-Oct-2025,T-Shirt,10,1,,185,60,RM-B-103,A02
+7,07-Oct-2025,Chanderi Dupatta,8,1,,215,55,RM-B-103,A03
+8,08-Oct-2025,Chanderi Scarf,12,0,,152,50,RM-A-101,A04
+9,10-Oct-2025,Cotton Scarf,20,1,,85,40,RM-A-101,A01
+10,11-Oct-2025,T-Shirt,15,0,,180,60,RM-A-101,A02
+11,12-Oct-2025,Chanderi Dupatta,10,0,,210,55,RM-A-102,A03
+12,13-Oct-2025,chanderi scarf,15,0,,150,50,RM-A-102,A04
+13,14-Oct-2025,Cotton Scarf,20,2,,87,40,RM-B-103,A01
+14,15-Oct-2025,T-Shirt,12,1,,185,60,RM-B-103,A02
+15,16-Oct-2025,Chanderi Dupatta,10,1,,215,55,RM-B-103,A03
+16,18-Oct-2025,Chanderi Scarf,15,0,,152,50,RM-A-101,A04
+17,19-Oct-2025,Cotton Scarf,15,0,,85,40,RM-A-101,A01
+18,20-Oct-2025,T-Shirt,10,0,,180,60,RM-A-101,A02
+19,21-Oct-2025,Chanderi Dupatta,8,0,,210,55,RM-A-102,A03
+20,22-Oct-2025,Chanderi Scarf,12,0,,150,50,RM-A-102,A04
+21,24-Oct-2025,cotton scarf,15,1,,87,40,RM-B-103,A01
+22,25-Oct-2025,T-Shirt,10,0,,185,60,RM-B-103,A02
+23,26-Oct-2025,Chanderi Dupatta,8,0,,215,55,RM-B-103,A03
+24,27-Oct-2025,Chanderi Scarf,12,0,,152,50,RM-A-101,A04
+25,28-Oct-2025,Cotton Scarf,20,1,,85,40,RM-A-101,A01
+26,29-Oct-2025,T-Shirt,15,0,,180,60,RM-A-101,A02
+27,01-Nov-2025,Chanderi Dupatta,15,0,,210,55,RM-C-104,A03
+28,02-Nov-2025,chanderi scarf,20,0,,150,50,RM-C-104,A04
+29,03-Nov-2025,Cotton Scarf,25,1,,86,40,RM-C-104,A01
+30,04-Nov-2025,T-Shirt,20,1,,182,60,RM-C-104,A02
+31,05-Nov-2025,Chanderi Dupatta,15,0,,212,55,RM-D-105,A03
+32,06-Nov-2025,Chanderi Scarf,20,0,,151,50,RM-D-105,A04
+33,07-Nov-2025,Cotton Scarf,25,1,,86,40,RM-D-105,A01
+34,08-Nov-2025,T-Shirt,20,1,,182,60,RM-D-105,A02
+35,10-Nov-2025,Chanderi Dupatta,12,0,,210,55,RM-C-104,A03
+36,11-Nov-2025,Chanderi Scarf,18,0,,150,50,RM-C-104,A04
+37,12-Nov-2025,Cotton Scarf,22,1,,86,40,RM-C-104,A01
+38,13-Nov-2025,T-Shirt,18,0,,182,60,RM-C-104,A02
+39,14-Nov-2025,chanderi Dupatta,15,0,,212,55,RM-D-105,A03
+40,15-Nov-2025,Chanderi Scarf,20,1,,151,50,RM-D-105,A04
+41,16-Nov-2025,Cotton Scarf,25,1,,86,40,RM-D-105,A01
+42,17-Nov-2025,T-Shirt,20,1,,182,60,RM-D-105,A02
+43,19-Nov-2025,Chanderi Dupatta,10,0,,210,55,RM-C-104,A03
+44,20-Nov-2025,Chanderi Scarf,15,0,,150,50,RM-C-104,A04
+45,21-Nov-2025,Cotton Scarf,20,0,,86,40,RM-C-104,A01
+46,22-Nov-2025,T-Shirt,15,0,,182,60,RM-C-104,A02
+47,23-Nov-2025,Chanderi Dupatta,12,0,,212,55,RM-D-105,A03
+48,24-Nov-2025,chanderi scarf,18,0,,151,50,RM-D-105,A04
+49,25-Nov-2025,cotton scarf,22,1,,86,40,RM-D-105,A01
+50,26-Nov-2025,T-Shirt,18,1,,182,60,RM-D-105,A02
+51,27-Nov-2025,Chanderi Dupatta,10,0,,210,55,RM-C-104,A03
+52,28-Nov-2025,Chanderi Scarf,15,0,,150,50,RM-C-104,A04
+53,28-Nov-2025,Cotton Scarf,20,0,,86,40,RM-C-104,A01
+54,29-Nov-2025,T-Shirt,15,0,,182,60,RM-C-104,A02
+55,30-Nov-2025,Chanderi Dupatta,12,0,,212,55,RM-D-105,A03

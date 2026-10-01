@@ -1,0 +1,31 @@
+DOR SALES RECORD,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+S.No,Order ID,Date,Category,Price,Quantity,,Total Amount,Shipping Charges,Return Status
+1,EN-1001,05-Oct-2025,T-Shirt,450,1,,450,60,Kept
+2,EN-1002,06-Oct-2025,Cotton Scarf,250,2,,500,60,Kept
+3,EN-1003,09-Oct-2025,Chanderi Scarf,400,1,,400,60,Kept
+4,EN-1004,11-Oct-2025,Chanderi Dupatta,550,1,,550,70,Kept
+5,EN-1005,13-Oct-2025,T-Shirt,450,1,,450,60,Returned
+6,EN-1006,16-Oct-2025,cotton scarf,250,3,,750,70,Kept
+7,EN-1007,18-Oct-2025,chanderi scarf,400,1,,400,60,Kept
+8,EN-1008,20-Oct-2025,T-Shirt,450,2,,900,70,Kept
+9,EN-1009,23-Oct-2025,Cotton Scarf,250,1,,250,60,Kept
+10,EN-1010,25-Oct-2025,Chanderi Dupatta,550,1,,550,70,Kept
+11,EN-1011,28-Oct-2025,T-Shirt,450,1,,450,60,Kept
+12,EN-1012,02-Nov-2025,Cotton Scarf,250,2,,500,60,Kept
+13,EN-1013,04-Nov-2025,T-Shirt,450,2,,900,70,Returned
+14,EN-1014,06-Nov-2025,Chanderi Scarf,400,1,,400,60,Kept
+15,EN-1015,08-Nov-2025,Chanderi Dupatta,550,2,,1100,70,Kept
+16,EN-1016,11-Nov-2025,cotton scarf,250,3,,750,70,Kept
+17,EN-1017,13-Nov-2025,T-Shirt,450,1,,450,60,Kept
+18,EN-1018,15-Nov-2025,chanderi scarf,400,2,,800,70,Kept
+19,EN-1019,18-Nov-2025,T-Shirt,450,1,,450,60,Returned
+20,EN-1020,20-Nov-2025,Cotton Scarf,250,2,,500,60,Kept
+21,EN-1021,22-Nov-2025,Chanderi Dupatta,550,1,,550,70,Kept
+22,EN-1022,25-Nov-2025,T-Shirt,450,1,,450,60,Kept
+23,EN-1023,27-Nov-2025,Cotton Scarf,250,4,,1000,70,Kept
+24,EN-1024,29-Nov-2025,chanderi scarf,400,1,,400,60,Kept
+,,,,,,,,,
+,,,,,,,,,
+Note: Shipping Charges mentioned here are not charged from the customers but are an expense for the organisation.,,,,,,,,,
